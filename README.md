@@ -17,5 +17,3 @@ It also implements various Text mining modals like :
 - Naive Bayes
 
 - Recurrent Neural Networks (RNN)
-
-- 
