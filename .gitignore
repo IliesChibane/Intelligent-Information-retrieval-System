@@ -129,3 +129,10 @@ dmypy.json
 .pyre/
 /Ennoncé
 /inverse.json
+/inverse.csv
+/info_queries.csv
+/bool_queries.csv
+/dataset_dbscan_clean.csv
+/dataset_dbscan.csv
+/fichier_descripteur.csv
+/fichier_inverse.csv
