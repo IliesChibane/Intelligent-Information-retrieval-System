@@ -10,10 +10,6 @@ This Python web app application made with Gradio implements various information 
 
 - The probabilistic model based on the **BM25** function
 
-It also implements various Text mining models like :
+- A text mining model using **Density-based spatial clustering of applications with noise (DBSCAN)** for document clustering and **Naive Bayes** for queries classification
 
-- Density-based spatial clustering of applications with noise (DBSCAN)
-
-- Naive Bayes
-
-- Recurrent Neural Networks (RNN)
+- A Deep Learning model using **Recurrent Neural Networks (RNN)**
