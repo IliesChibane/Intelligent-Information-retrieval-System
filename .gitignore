@@ -128,11 +128,14 @@ dmypy.json
 # Pyre type checker
 .pyre/
 /Ennoncé
-/inverse.json
-/inverse.csv
-/info_queries.csv
-/bool_queries.csv
-/dataset_dbscan_clean.csv
-/dataset_dbscan.csv
-/fichier_descripteur.csv
-/fichier_inverse.csv
+/Application/flagged
+/csv_docs/bm25_metrics.csv
+/csv_docs/bool_metrics.csv
+/csv_docs/cm_metrics.csv
+/csv_docs/dataset_dbscan_clean.csv
+/csv_docs/dataset_dbscan.csv
+/csv_docs/Deep_learning_Metrics.csv
+/csv_docs/groups.json
+/csv_docs/jm_metrics.csv
+/csv_docs/sp_metrics.csv
+/csv_docs/tm_metrics.csv
