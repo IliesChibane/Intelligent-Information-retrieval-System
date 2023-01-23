@@ -128,6 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 /Ennoncé
+/Rapport
 /Application/flagged
 /csv_docs/bm25_metrics.csv
 /csv_docs/bool_metrics.csv
