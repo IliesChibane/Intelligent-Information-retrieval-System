@@ -12,4 +12,4 @@ This Python web app application made with Gradio implements various information 
 
 - A text mining model using **Density-based spatial clustering of applications with noise (DBSCAN)** for document clustering and **Naive Bayes** for queries classification
 
-- A deep learning model using **Recurrent Neural Networks (RNN)** and **Long Short-Term Memory (LSTM)**
+- A deep learning model using two **Recurrent Neural Networks (RNN)** architecture **Long Short-Term Memory (LSTM)** and **Gated Recurrent Unit (GRU)**
